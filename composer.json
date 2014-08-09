@@ -38,7 +38,7 @@
 	"extra": {
 		"contao": {
 			"sources": {
-				"module": "system/modules/assetic-csscrush-filter"
+				"system/modules/assetic-csscrush-filter": "system/modules/assetic-csscrush-filter"
 			}
 		},
 		"branch-alias": {
